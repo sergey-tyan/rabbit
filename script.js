@@ -2,7 +2,7 @@ console.clear();
 console.log('lsakdfalskjdflnksd');
 
 const config = {
-  src: 'https://gitlab.com/powr/powr/uploads/a30931f07dc08387573a6e1116f242dc/peeps-transparent.png',
+  src: 'https://s3-us-west-2.amazonaws.com/s.cdpn.io/175711/open-peeps-sheet.png',
   rows: 15,
   cols: 7,
 };
