@@ -2,7 +2,7 @@ console.clear();
 console.log('lsakdfalskjdflnksd');
 
 const config = {
-  src: 'https://s3-us-west-2.amazonaws.com/s.cdpn.io/175711/open-peeps-sheet.png',
+  src: 'https://private-user-images.githubusercontent.com/6569308/530090205-79f52db7-b9fa-4075-99ae-b0b8cfb75590.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjY2MTM5OTEsIm5iZiI6MTc2NjYxMzY5MSwicGF0aCI6Ii82NTY5MzA4LzUzMDA5MDIwNS03OWY1MmRiNy1iOWZhLTQwNzUtOTlhZS1iMGI4Y2ZiNzU1OTAucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MTIyNCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTEyMjRUMjIwMTMxWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9Zjc1MTY4ZjcyNjQxMDcyNTU1MWQwNmQ3ZWFlYTk5YTIyMzY3OWRhYTg3OWY1OTBhNjA1ZTIyOGZiMjU5ZjdhNSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.xKkM7l6qDn1QkUIMobAgLBa6L6rvJ6gJVHKxoD-sK7w',
   rows: 15,
   cols: 7,
 };
